@@ -13,7 +13,7 @@ The app demonstrates:
 
 ## 📸 Screenshots (Example)
 
-> *(Add your own screenshots in `docs/` folder and reference them here)*
+> 
 
 - **Login / Register**
 - **Auth Page**
@@ -52,7 +52,7 @@ app/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/BrutalAuthSample.git
+git clone https://github.com/<YOUR_USERNAME>/BrutalAuthSample](https://github.com/Bruttt/Example-BrutalAuthJavaAndroid.git
 cd BrutalAuthSample
 ```
 
